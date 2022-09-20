@@ -1,0 +1,7 @@
+    Knife, 1,   125,   PA
+Colander  ,2  ,25.95   ,NJ   
+Cutting Board,  3   ,   29.99  ,  NY  
+Measuring Cup,4,15,PA
+Measuring Spoon,5,10,NY
+Grater,6,20.99,PA
+Blender,7,100,PR

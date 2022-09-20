@@ -1,0 +1,52 @@
+Alabama,AL,4.000%
+Alaska,AK,0.000%
+Arizona,AZ,5.600%
+Arkansas,AR,6.500%
+California,CA,7.250%
+Colorado,CO,2.900%
+Connecticut,CT,6.350%
+Delaware,DE,0.000%
+District of Columbia,DC,6.000%
+Florida,FL,6.000%
+Georgia,GA,4.000% 	
+Hawaii,HI,4.000%
+Idaho,ID,6.000%
+Illinois,IL,6.250%
+Indiana,IN,7.000%
+Iowa,IA,6.000%
+Kansas,KS,6.500%
+Kentucky,KY,6.000%
+Louisiana,LA,4.450%
+Maine,ME,5.500%
+Maryland,MD,6.000%
+Massachusetts,MA,6.250%
+Michigan,MI,6.000%
+Minnesota,MN,6.875%
+Mississippi,MS,7.000%
+Missouri,MO,4.225%
+Montana,MT,0.000%
+Nebraska,NE,5.50%
+Nevada,NV,6.85%
+New Hampshire,NH,0.000%
+New Jersey,NJ,6.625%
+New Mexico,NM,5.125%
+New York,NY,4.000%
+North Carolina,NC,4.750%
+North Dakota,ND,5.000%
+Ohio,OH,5.750%
+Oklahoma,OK,4.500%
+Oregon,OR,0.000%
+Pennsylvania,PA,6.000%
+Puerto Rico,PR,11.500%
+Rhode Island,RI,7.000%
+South Carolina,SC,6.000%
+South Dakota,SD,4.500%
+Tennessee,TN,7.000%
+Texas,TX,6.250%
+Utah,UT,4.850%
+Vermont,VT,6.000%
+Virginia,VA,4.300%
+Washington,WA,6.500%
+West Virginia,WV,6.000%
+Wisconsin,WI,5.000%
+Wyoming,WY,4.000%
